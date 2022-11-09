@@ -1,7 +1,28 @@
 # [`MydevStation`](https://mydevstation.com)
 
-devStation is a scrap projects and resources managment app.
+`devStation` is an all in one app to organise and store scrap projects their resources resources.
 
 > Made by developers for developers.
 
+There are many kinds of project managment apps, but no app is designed to specifically help develpers start projects from scratch.
+
+This app is designed to help developers easily start and manage projects; from Idea to Poduction.
+
 The app is an all in one place to manage scrap projects and their Resources, gather Inspiration and so on.
+
+## Features
+
+- 🚀🔥 Blazingly fast and aesthetic UI for Resource Search
+
+- 📒 Organise your Projects by Bookmarks, Pins and many others tools
+
+- 🧩😎 Intergration/Sync with Github Projects
+  - Create and manage Github Projects Online and Offline.
+
+## Inspiration
+
+Some people have this common problem called "The idea graveyard".
+
+Basically this happens When you have many Good ideas you wish to turn into Projects
+
+but they end up dead because you couldn't finish the research, the research is too hard or you had no enough time.
