@@ -12,12 +12,17 @@ The app is an all in one place to manage scrap projects and their Resources, gat
 
 ## Features
 
-- 🚀🔥 Blazingly fast and aesthetic UI for Resource Search
+- 🚀🔥 Blazingly fast and aesthetic UI
 
-- 📒 Organise your Projects by Bookmarks, Pins and many others tools
+  - GlassMorphism theme
+  - AI assisted Resource Search
+  - Cool Markdown Editor
 
 - 🧩😎 Intergration/Sync with Github Projects
+
   - Create and manage Github Projects Online and Offline.
+
+- 📒 Organise your Projects by Bookmarks, Pins and many others tools
 
 ## Inspiration
 
