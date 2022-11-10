@@ -34,7 +34,6 @@ Run and Watch
 dotnet watch run
 ```
 
-
 ## Todo (Features to add)
 
 - 🚀🔥 Blazingly fast and aesthetic UI
