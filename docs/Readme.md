@@ -1,6 +1,6 @@
 # docs
 
-Intro Synopsis
+`devstation` is a Desktop app with React, Typescript, ASP.NET Core and WebView2
 
 ## Inspiration
 
