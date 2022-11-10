@@ -10,7 +10,7 @@ This app is designed to help developers easily start and manage projects; from I
 
 The app is an all in one place to manage scrap projects and their Resources, gather Inspiration and so on.
 
-## Features
+## Todo (Features to add)
 
 - 🚀🔥 Blazingly fast and aesthetic UI
 
