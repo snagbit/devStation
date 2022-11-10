@@ -1,4 +1,4 @@
-# [`MydevStation`](https://mydevstation.com)
+# [`devStation`](https://mydevstation.com)
 
 `devStation` is an all in one app to organise and store scrap projects their resources resources.
 
