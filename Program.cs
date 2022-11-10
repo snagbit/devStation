@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using WinFormsApp;
 
-namespace my_new_app
+namespace MydevStation
 {
     public class Program
     {

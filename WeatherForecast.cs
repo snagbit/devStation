@@ -1,6 +1,6 @@
 using System;
-// my-new-app -> MydevStation
-namespace my_new_app
+
+namespace MydevStation
 {
     public class WeatherForecast
     {
