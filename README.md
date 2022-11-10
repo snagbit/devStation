@@ -10,17 +10,42 @@ This app is designed to help developers easily start and manage projects; from I
 
 The app is an all in one place to manage scrap projects and their Resources, gather Inspiration and so on.
 
+## Runit
+
+Clone the repository
+```
+git clone https://github.com/megasoft78/asp-net-core-react-typescript-webview2.git
+```
+
+Build
+```
+dotnet build
+```
+
+Run
+```
+dotnet run 
+```
+
+or
+
+Run and Watch
+```
+dotnet watch run
+```
+
+
 ## Todo (Features to add)
 
 - 🚀🔥 Blazingly fast and aesthetic UI
 
-  - GlassMorphism theme
-  - AI assisted Resource Search
-  - Cool Markdown Editor
+  - [ ] GlassMorphism theme
+  - [ ] AI assisted Resource Search
+  - [ ] Cool Markdown Editor
 
 - 🧩😎 Intergration/Sync with Github Projects
 
-  - Create and manage Github Projects Online and Offline.
+  - [ ] Create and manage Github Projects Online and Offline.
 
 - 📒 Organise your Projects by Bookmarks, Pins and many others tools
 
